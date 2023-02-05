@@ -1,4 +1,4 @@
-package com.reactive.test.reactor;
+package com.designpattern.test.designpattern;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

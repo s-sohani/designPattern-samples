@@ -1,4 +1,4 @@
-package com.reactive.test.reactor.designpattern.iterator;
+package com.designpattern.test.designpattern.designpattern.iterator;
 
 public interface Iterator {
     boolean hasNext();

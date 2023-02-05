@@ -1,4 +1,4 @@
-package com.reactive.test.reactor.eventbus;
+package com.designpattern.test.designpattern.eventbus;
 
 import static reactor.Environment.MPSC;
 

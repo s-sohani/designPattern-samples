@@ -1,4 +1,4 @@
-package com.reactive.test.reactor.eventbus;
+package com.designpattern.test.designpattern.eventbus;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

@@ -1,4 +1,4 @@
-package com.reactive.test.reactor.designpattern.observer;
+package com.designpattern.test.designpattern.designpattern.observer;
 
 import java.util.ArrayList;
 import java.util.List;

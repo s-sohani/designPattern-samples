@@ -1,7 +1,7 @@
-package com.reactive.test.reactor;
+package com.designpattern.test.designpattern;
 
-import com.reactive.test.reactor.eventbus.NotificationData;
-import com.reactive.test.reactor.eventbus.ReactorApplication;
+import com.designpattern.test.designpattern.eventbus.NotificationData;
+import com.designpattern.test.designpattern.eventbus.ReactorApplication;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

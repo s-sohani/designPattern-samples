@@ -1,4 +1,4 @@
-package com.reactive.test.reactor.designpattern.iterator;
+package com.designpattern.test.designpattern.designpattern.iterator;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,7 +13,7 @@ public class Storage {
         objects.add("test4");
     }
 
-    public com.reactive.test.reactor.designpattern.iterator.Iterator getIterator() {
+    public com.designpattern.test.designpattern.designpattern.iterator.Iterator getIterator() {
         return new Iterator();
     }
 
@@ -21,7 +21,7 @@ public class Storage {
         objects.add(str);
     }
 
-    private class Iterator implements com.reactive.test.reactor.designpattern.iterator.Iterator {
+    private class Iterator implements com.designpattern.test.designpattern.designpattern.iterator.Iterator {
         int position = objects.size() > 0 ? 0 : -1;
 
         @Override
